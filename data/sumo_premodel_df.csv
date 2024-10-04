@@ -180,7 +180,7 @@ id,sumodb_id,nsk_id,ring_name,current_rank,height,weight,total_wins,total_losses
 6712,7238,0,Horie,Retired,0.0,0.0,16,22,38,4,0,42.11,1986,5,Isegahama
 3406,12079,0,Takenoumi Kosei,Retired,182.0,107.4,62,71,133,4,26,46.62,2013,4,Dewanoumi
 4950,881,0,Wakashoho Yoshihisa,Retired,180.0,102.0,22,20,42,4,44,52.38,1999,1,Unaffilliated
-327,6538,2834,Shosei,Banzuke-gai,166.0,123.0,388,371,759,5,38,51.12,2005,19,Dewanoumi
+327,6538,2834,Shosei,Banzuke-gai,166.0,123.0,388,371,759,4,38,51.12,2005,19,Dewanoumi
 5977,2604,0,Tsuruwakamatsu Tsuyoshi,Retired,178.0,75.0,5,2,7,4,48,71.43,1994,0,Unaffilliated
 595,677,1691,Itakozakura,Jonokuchi,178.0,139.5,515,734,1249,3,46,41.23,1994,30,Dewanoumi
 1274,6657,0,Kiyonosato Shoichi#,Retired,188.0,89.0,123,129,252,4,68,48.81,1974,6,Unaffilliated
@@ -1126,7 +1126,7 @@ id,sumodb_id,nsk_id,ring_name,current_rank,height,weight,total_wins,total_losses
 2848,8802,0,Tsunomine Tokujiro,Retired,175.0,120.0,19,16,35,4,75,54.29,1966,1,Tokisuzake
 5174,542,0,Akasaka Toshiyuki,Retired,176.0,87.5,172,180,352,4,50,48.86,1990,9,Unaffilliated
 1774,4045,0,Futagodake Takeshi,Retired,178.0,106.0,571,569,1140,4,81,50.09,1961,15,Dewanoumi
-493,12345,3736,Satsumao,Banzuke-gai,183.0,120.0,133,171,304,5,24,43.75,2016,8,Dewanoumi
+493,12345,3736,Satsumao,Banzuke-gai,183.0,120.0,133,171,304,4,24,43.75,2016,8,Dewanoumi
 702,11837,0,Azumasho Go,Retired,175.0,181.0,244,251,495,4,33,49.29,2010,12,Dewanoumi
 1976,8213,0,Koya#,Retired,174.0,93.0,29,40,69,4,69,42.03,1974,2,Dewanoumi
 8432,11490,0,Katsurafuji,Retired,0.0,0.0,15,20,35,4,80,42.86,1961,2,Dewanoumi
@@ -2093,7 +2093,7 @@ id,sumodb_id,nsk_id,ring_name,current_rank,height,weight,total_wins,total_losses
 7543,10467,0,Narushio,Retired,0.0,0.0,54,65,119,4,0,45.38,1954,6,Unaffilliated
 1873,8166,0,Iwatsuki,Retired,179.0,132.0,197,202,399,4,73,49.37,1967,10,Unaffilliated
 32,12406,3797,Mitoryu,Juryo,190.0,197.0,299,287,586,2,33,51.02,2017,7,Takasago
-455,11959,3350,Wakayamanaka,Banzuke-gai,175.0,128.1,214,238,452,5,28,47.35,2011,13,Nishonoseki
+455,11959,3350,Wakayamanaka,Banzuke-gai,175.0,128.1,214,238,452,4,28,47.35,2011,13,Nishonoseki
 376,12744,4135,Yamato,Jonidan,174.0,80.0,52,42,94,3,21,55.32,2022,2,Dewanoumi
 1947,8246,0,Itoyama,Retired,174.0,85.0,16,26,42,4,65,38.1,1975,1,Dewanoumi
 5794,1872,0,Satsuma,Retired,189.0,114.0,74,89,163,4,53,45.4,1987,4,Takasago
@@ -4858,7 +4858,7 @@ id,sumodb_id,nsk_id,ring_name,current_rank,height,weight,total_wins,total_losses
 2706,8764,0,Harimakuni,Retired,175.0,77.0,79,96,175,4,77,45.14,1963,4,Unaffilliated
 6241,1605,0,Komahikari Isamu#,Retired,175.0,124.1,173,191,364,4,59,47.53,1981,9,Unaffilliated
 7646,10389,0,Suginoumi,Retired,0.0,0.0,5,11,16,4,0,31.25,1953,5,Unaffilliated
-369,12272,3663,Nakashima,Banzuke-gai,177.0,182.0,138,107,245,5,26,56.33,2015,9,Dewanoumi
+369,12272,3663,Nakashima,Banzuke-gai,177.0,182.0,138,107,245,4,26,56.33,2015,9,Dewanoumi
 2054,5237,0,Kitanosato Masato#,Retired,181.0,97.0,179,170,349,4,73,51.29,1966,9,Nishonoseki
 186,12481,3872,Kotohaguro,Makushita,183.0,127.0,134,123,257,3,21,52.14,2018,6,Nishonoseki
 1345,3920,0,Hakuryuyama Keisuke,Retired,176.0,109.0,76,101,177,4,98,42.94,1941,19,Unaffilliated
@@ -6254,7 +6254,7 @@ id,sumodb_id,nsk_id,ring_name,current_rank,height,weight,total_wins,total_losses
 6694,7373,0,Niwa,Retired,0.0,0.0,15,27,42,4,0,35.71,1986,1,Tokisuzake
 5913,2194,0,Akanefuji Masataka,Retired,174.0,132.0,86,97,183,4,49,46.99,1991,5,Takasago
 6549,7315,0,Shioda Toyo#,Retired,172.5,86.0,56,77,133,4,59,42.11,1983,4,Takasago
-444,12421,3812,Tsuyasato,Banzuke-gai,169.0,155.0,84,112,196,5,23,42.86,2017,7,Nishonoseki
+444,12421,3812,Tsuyasato,Banzuke-gai,169.0,155.0,84,112,196,4,23,42.86,2017,7,Nishonoseki
 3859,4,0,Musashimaru Koyo,Retired,191.6,224.0,779,294,1073,4,53,72.6,1989,14,Dewanoumi
 291,12146,3537,Sakai,Sandanme,176.0,126.0,210,217,427,3,29,49.18,2014,10,Nishonoseki
 7565,10816,0,Mihara,Retired,0.0,0.0,84,84,168,4,0,50.0,1956,5,Unaffilliated
@@ -7556,7 +7556,7 @@ id,sumodb_id,nsk_id,ring_name,current_rank,height,weight,total_wins,total_losses
 4082,12258,0,Iwagami Taishi,Retired,179.0,86.0,18,17,35,4,28,51.43,2015,1,Unaffilliated
 5084,366,0,Tokibayama Yoshiharu,Retired,175.0,111.5,160,174,334,4,49,47.9,1991,8,Tokisuzake
 7939,8849,0,Shachinishiki,Retired,0.0,0.0,12,41,53,4,71,22.64,1968,2,Isegahama
-477,12726,4117,Aoifuji,Banzuke-gai,167.0,94.0,36,39,75,5,21,48.0,2021,3,Isegahama
+477,12726,4117,Aoifuji,Banzuke-gai,167.0,94.0,36,39,75,4,21,48.0,2021,3,Isegahama
 5486,2025,0,Kotosakaguchi Eiichiro,Retired,175.0,114.0,124,141,265,4,51,46.79,1989,6,Nishonoseki
 6827,7522,0,Matsushita Yuji,Retired,180.0,91.0,17,18,35,4,57,48.57,1983,1,Nishonoseki
 4991,65,0,Dewataira Shinichi,Retired,178.0,152.0,116,105,221,4,50,52.49,1997,3,Dewanoumi
